@@ -1,9 +1,9 @@
-# Uniswap Swap Router
+# MatrixSwap Swap Router
 
 [![Tests](https://github.com/Uniswap/swap-router-contracts/workflows/Tests/badge.svg)](https://github.com/Uniswap/swap-router-contracts/actions?query=workflow%3ATests)
 [![Lint](https://github.com/Uniswap/swap-router-contracts/workflows/Lint/badge.svg)](https://github.com/Uniswap/swap-router-contracts/actions?query=workflow%3ALint)
 
-This repository contains smart contracts for swapping on the Uniswap V2 and V3 protocols.
+This repository contains smart contracts for swapping on the MatrixSwap protocols.
 
 ## Bug bounty
 
